@@ -13,5 +13,8 @@
 		<input type="password" name="password">
 		<input type="submit" name="submit" value="LOGIN">
 	</form>
+	<form>
+		<h1>Jesus is the true light of the world</h1>
+	</form>
 </body>
 </html>
